@@ -1,0 +1,25 @@
+[Adblock Plus 3.25]
+! Title: NM Common Blocklist
+! Expires: 1 hour
+! Homepage: https://github.com/niekvb/abp-filters
+! Licence: https://raw.githubusercontent.com/niekvb/abp-filters/main/LICENSE
+
+!!
+!!  Youtube
+!!
+
+youtube.com##.annotation.annotation-type-custom.iv-branding
+youtube.com##.ytp-bezel-text-hide
+youtube.com##.ytp-button.ytp-fullerscreen-edu-button
+youtube.com##.ytp-button.ytp-endscreen-next
+youtube.com##.ytp-button.ytp-endscreen-previous
+youtube.com##.ytp-cards-button-icon
+youtube.com##.ytp-cards-teaser
+youtube.com##.ytp-ce-element
+youtube.com##.ytp-chrome-top
+youtube.com##.ytp-doubletap-ui-legacy
+youtube.com##.ytp-gradient-top
+youtube.com##.ytp-player-content.videowall-endscreen
+
+!! Youtube extensions
+youtube.com##.skipButtonControlBarContainer
